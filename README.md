@@ -1,3 +1,3 @@
-Hello, I'm Alex Hashemi and I'm a Data Analyst. 
+Hi, I'm currently an Implementation Analyst working for a financial SaaS company. On the job I occaisonally use a mix of Python and SQL. 
 
-Currently learning on my own how to develop for web. Learning HTML/CSS/JS with the current goal of being a full-stack dev.
+On my own time, I learn programming and web development for hobby projects. Interested in becoming a full-time dev.
